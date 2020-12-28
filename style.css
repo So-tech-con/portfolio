@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    background: orange;
+    font-size: 70px;
+    color: blue;
+}
+
+#image1 {
+    height: 390px;
+}
